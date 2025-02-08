@@ -1,0 +1,7 @@
+# Ignore compiled binaries
+*.exe
+*.out
+*.log
+
+# Ignore Go module files (if any)
+vendor/
